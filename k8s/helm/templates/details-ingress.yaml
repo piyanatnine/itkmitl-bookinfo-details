@@ -14,7 +14,7 @@ spec:
   - host: {{ .Values.ingress.host }}
     http:
       paths:
-      - path: /student20/details(/|$)(.*)
+      - path: /student28/details(/|$)(.*)
         pathType: Prefix
         backend:
           service:
