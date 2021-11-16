@@ -5,7 +5,7 @@ version: 1.0.0
 appVersion: 1.0.0
 home: http://itkmitl.bookinfo.dev.opsta.net/student28/details
 maintainers:
-  - name: student20
-    email: 62070062@it.kmitl.ac.th
+  - name: student28
+    email: 62070119@it.kmitl.ac.th
 sources:
   - https://github.com/piyanatnine/itkmitl-bookinfo-details
